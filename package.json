@@ -1,0 +1,22 @@
+{
+  "name": "FrontendMaster-dl",
+  "version": "1.0.0",
+  "description": "FrontendMaster Video Downloader",
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow",
+    "babel-node": "babel-node"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.15",
+    "webdriverio": "^4.8.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.56.0"
+  }
+}
